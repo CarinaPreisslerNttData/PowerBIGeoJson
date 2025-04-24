@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitte"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[12.118, 54.088], [12.130, 54.090], [12.132, 54.085], [12.125, 54.080], [12.118, 54.088]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lichtenhagen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[12.025, 54.150], [12.035, 54.153], [12.040, 54.148], [12.030, 54.145], [12.025, 54.150]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reutershagen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[12.065, 54.095], [12.075, 54.100], [12.080, 54.095], [12.070, 54.090], [12.065, 54.095]]]
+      }
+    }
+  ]
+}
